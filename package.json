@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Samples using JS with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gersondias/js-tdd.git"
+  },
+  "keywords": [
+    "JS",
+    "TDD",
+    "Library"
+  ],
+  "author": "Gerson Dias <eu@gersondias.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gersondias/js-tdd/issues"
+  },
+  "homepage": "https://github.com/gersondias/js-tdd#readme"
+}
